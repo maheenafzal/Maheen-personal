@@ -1,0 +1,21 @@
+body{
+    margin: 20px;
+    font-family: 'Permanent Marker', cursive;
+}
+
+.detail{
+    display: flex;
+    justify-content: space-around;
+    border-radius: 25px;
+    background: #6d2e46;
+    padding: 30px;
+    border-bottom: 20px solid #3d348b;
+    color: black;
+    text-align: center;
+    margin: 0 auto;
+    width: 500px;
+}
+.maheen{
+    width: 200px;
+    border-radius: 25px
+}
